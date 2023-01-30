@@ -1,0 +1,15 @@
+/Users/kishlakfree/Desktop/Seminar4/Task1/bin/Debug/net7.0/Task1
+/Users/kishlakfree/Desktop/Seminar4/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/kishlakfree/Desktop/Seminar4/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/kishlakfree/Desktop/Seminar4/Task1/bin/Debug/net7.0/Task1.dll
+/Users/kishlakfree/Desktop/Seminar4/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.dll
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/kishlakfree/Desktop/Seminar4/Task1/obj/Debug/net7.0/ref/Task1.dll
